@@ -1,8 +1,9 @@
 package com.bartoszlewandowski.mvvmwithlivedataexample.ui.quotes
 
 import androidx.lifecycle.ViewModel
-import com.bartoszlewandowski.mvvmwithlivedataexample.QuoteRepository
-import com.bartoszlewandowski.mvvmwithlivedataexample.data.Quote
+import com.bartoszlewandowski.mvvmwithlivedataexample.data.repository.QuoteRepositoryImpl
+import com.bartoszlewandowski.mvvmwithlivedataexample.data.model.Quote
+import com.bartoszlewandowski.mvvmwithlivedataexample.data.repository.QuoteRepository
 
 /**
  * Created by Bartosz Lewandowski on 06.08.2020

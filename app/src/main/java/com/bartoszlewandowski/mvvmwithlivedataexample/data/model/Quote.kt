@@ -1,4 +1,4 @@
-package com.bartoszlewandowski.mvvmwithlivedataexample.data
+package com.bartoszlewandowski.mvvmwithlivedataexample.data.model
 
 /**
  * Created by Bartosz Lewandowski on 06.08.2020
